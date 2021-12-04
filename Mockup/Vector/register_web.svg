@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg904"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="register_web.svg"
+   inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview906"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.17711059"
+     inkscape:cx="3331.252"
+     inkscape:cy="1693.8569"
+     inkscape:window-width="2160"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-78.631453,294.66902"
+       orientation="1,0"
+       id="guide1203" />
+    <sodipodi:guide
+       position="1836.5326,294.66902"
+       orientation="1,0"
+       id="guide1205" />
+    <sodipodi:guide
+       position="876.13098,442.27302"
+       orientation="1,0"
+       id="guide1384" />
+    <sodipodi:guide
+       position="619.27281,15.47168"
+       orientation="0,-1"
+       id="guide1885" />
+    <sodipodi:guide
+       position="619.27279,15.47168"
+       orientation="1,0"
+       id="guide1900" />
+    <sodipodi:guide
+       position="1132.3105,15.47168"
+       orientation="1,0"
+       id="guide1902" />
+    <sodipodi:guide
+       position="729.0172,237.2445"
+       orientation="1,0"
+       id="guide2098" />
+    <sodipodi:guide
+       position="1045.7214,187.9462"
+       orientation="1,0"
+       id="guide2100" />
+    <sodipodi:guide
+       position="834.27983,15.47168"
+       orientation="1,0"
+       id="guide899" />
+    <sodipodi:guide
+       position="917.30345,15.47168"
+       orientation="1,0"
+       id="guide901" />
+  </sodipodi:namedview>
+  <defs
+     id="defs901" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#474a51;fill-opacity:1;stroke:none;stroke-width:4.83584;stroke-opacity:1"
+       id="rect987"
+       width="1915.1641"
+       height="1075.1642"
+       x="-78.631454"
+       y="2.3309898"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#444444;fill-opacity:1;stroke:none;stroke-width:1.08665;stroke-opacity:1"
+       id="rect1670"
+       width="1915.1641"
+       height="184.15248"
+       x="-78.631447"
+       y="2.3309898"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2162"
+       transform="matrix(5.1160983,0,0,4.12521,2985.794,-1355.9843)"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-426.23361"
+         y="343.41852"
+         id="text34233"><tspan
+           sodipodi:role="line"
+           id="tspan34231"
+           style="stroke-width:0.264583"
+           x="-426.23361"
+           y="343.41852">rypto</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-423.15784"
+         y="359.09506"
+         id="text35853"><tspan
+           sodipodi:role="line"
+           id="tspan35851"
+           style="stroke-width:0.264583"
+           x="-423.15784"
+           y="359.09506">hallenge</tspan></text>
+      <path
+         id="path7641-2"
+         style="fill:#9a7109;fill-opacity:0.86;stroke-width:0.272024;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -436.38467,337.25298 a 7.25,7.3591607 64.697897 0 0 -3.55469,9.7 7.25,7.3591607 64.697897 0 0 9.75203,3.40934 7.25,7.3591607 64.697897 0 0 4.10215,-8.02279 l -2.15677,1.01959 a 5,5.0752833 64.697897 0 1 -2.907,4.96906 5,5.0752833 64.697897 0 1 -6.72564,-2.35131 5,5.0752833 64.697897 0 1 2.45155,-6.68974 5,5.0752833 64.697897 0 1 5.68757,0.9066 l 2.15725,-1.01983 a 7.25,7.3591607 64.697897 0 0 -8.80645,-1.92092 z" />
+      <path
+         id="path7641-2-9"
+         style="fill:#9a7109;fill-opacity:0.86;stroke-width:0.271532;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -426.95773,347.69699 a 7.3325425,7.25 36.161682 0 0 -10.13715,1.86862 7.3325425,7.25 36.161682 0 0 1.98453,10.12311 7.3325425,7.25 36.161682 0 0 8.97034,-0.54559 l -1.96467,-1.33793 a 5.0569259,5 36.161682 0 1 -5.74063,0.0228 5.0569259,5 36.161682 0 1 -1.36865,-6.98156 5.0569259,5 36.161682 0 1 6.99124,-1.28872 5.0569259,5 36.161682 0 1 2.08805,5.35447 l 1.96515,1.33816 a 7.3325425,7.25 36.161682 0 0 -2.78815,-8.55339 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.56414"
+       id="rect2009-9"
+       width="215.00703"
+       height="64.376175"
+       x="619.27283"
+       y="281.52832"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.56414"
+       id="rect2009-9-1"
+       width="215.00703"
+       height="64.376175"
+       x="917.30347"
+       y="281.52832"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2.41615"
+       id="rect2009-9-5"
+       width="513.03778"
+       height="64.376175"
+       x="619.27277"
+       y="402.53323"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2.41615"
+       id="rect2009-9-5-1"
+       width="513.03778"
+       height="64.376175"
+       x="619.27277"
+       y="523.53815"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.5201px;line-height:1.25;font-family:sans-serif;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.763004"
+       x="889.18604"
+       y="248.57921"
+       id="text4588"
+       transform="scale(0.75212977,1.3295578)"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.763004;fill:#444444;fill-opacity:1"
+         x="889.18604"
+         y="248.57921"
+         id="tspan6254"><tspan
+   style="fill:#444444;fill-opacity:1"
+   id="tspan5800">First</tspan> <tspan
+   style="fill:#444444;fill-opacity:1"
+   id="tspan5054">Name</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.0789px;line-height:1.25;font-family:sans-serif;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.926975"
+       x="890.92792"
+       y="511.28302"
+       id="text14220"
+       transform="scale(0.89880966,1.1125826)"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.926975;fill:#444444;fill-opacity:1"
+         x="890.92792"
+         y="511.28302"
+         id="tspan15968">Password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.0568px;line-height:1.25;font-family:sans-serif;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.826421"
+       x="1249.0208"
+       y="254.13284"
+       id="text7448"
+       transform="scale(0.77256409,1.294391)"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan7446"
+         style="stroke-width:0.826421;fill:#444444;fill-opacity:1"
+         x="1249.0208"
+         y="254.13284">Last Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.6446px;line-height:1.25;font-family:sans-serif;fill:#9998ad;fill-opacity:0.490196;stroke:none;stroke-width:0.916116"
+       x="971.98297"
+       y="373.39603"
+       id="text10584"
+       transform="scale(0.82467583,1.2125977)"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan10582"
+         style="fill:#444444;fill-opacity:1;stroke-width:0.916116"
+         x="971.98297"
+         y="373.39603">Username</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <g
+       id="g1966"
+       transform="matrix(2.6380044,0,0,2.3396945,-3099.3408,-219.45523)"
+       inkscape:export-filename="D:\IPCA\segundo ano\Web design\exercicio4_mockUp\png\register_web.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="path2186"
+         style="fill:#b79906;fill-opacity:1;stroke:#000000;stroke-width:0.722672"
+         d="m 1466.2627,380.13853 a 15.810485,12.718502 0 0 0 -15.8108,12.71856 15.810485,12.718502 0 0 0 15.8108,12.71856 15.810485,12.718502 0 0 0 0.4722,-0.0143 v 0.0413 h 86.3666 a 15.810485,12.718502 0 0 0 1.2772,0.0441 15.810485,12.718502 0 0 0 15.8104,-12.71856 15.810485,12.718502 0 0 0 -15.1608,-12.70675 v -10e-4 h -0.032 a 15.810485,12.718502 0 0 0 -0.6175,-0.0108 15.810485,12.718502 0 0 0 -0.3558,0.0108 h -85.9791 a 15.810485,12.718502 0 0 0 -1.7811,-0.082 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="1473.9696"
+         y="396.35721"
+         id="text19232"><tspan
+           sodipodi:role="line"
+           id="tspan19230"
+           style="stroke-width:0.264583"
+           x="1473.9696"
+           y="396.35721">Give Me MY $$</tspan></text>
+    </g>
+  </g>
+</svg>
