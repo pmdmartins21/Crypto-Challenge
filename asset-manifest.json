@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Crypto-Challenge---Documentacao/static/css/main.e4b2be2b.chunk.css",
+    "main.js": "/Crypto-Challenge---Documentacao/static/js/main.f9967068.chunk.js",
+    "main.js.map": "/Crypto-Challenge---Documentacao/static/js/main.f9967068.chunk.js.map",
+    "runtime-main.js": "/Crypto-Challenge---Documentacao/static/js/runtime-main.44eb3c5d.js",
+    "runtime-main.js.map": "/Crypto-Challenge---Documentacao/static/js/runtime-main.44eb3c5d.js.map",
+    "static/js/2.89880bee.chunk.js": "/Crypto-Challenge---Documentacao/static/js/2.89880bee.chunk.js",
+    "static/js/2.89880bee.chunk.js.map": "/Crypto-Challenge---Documentacao/static/js/2.89880bee.chunk.js.map",
+    "static/js/3.8f69732a.chunk.js": "/Crypto-Challenge---Documentacao/static/js/3.8f69732a.chunk.js",
+    "static/js/3.8f69732a.chunk.js.map": "/Crypto-Challenge---Documentacao/static/js/3.8f69732a.chunk.js.map",
+    "index.html": "/Crypto-Challenge---Documentacao/index.html",
+    "static/css/main.e4b2be2b.chunk.css.map": "/Crypto-Challenge---Documentacao/static/css/main.e4b2be2b.chunk.css.map",
+    "static/js/2.89880bee.chunk.js.LICENSE.txt": "/Crypto-Challenge---Documentacao/static/js/2.89880bee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44eb3c5d.js",
+    "static/js/2.89880bee.chunk.js",
+    "static/css/main.e4b2be2b.chunk.css",
+    "static/js/main.f9967068.chunk.js"
+  ]
+}
